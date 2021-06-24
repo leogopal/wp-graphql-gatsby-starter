@@ -30,7 +30,7 @@ module.exports = {
         // This is field under which it's accessible
         fieldName: `wpgraphql`,
         // Url to query from
-        url: `https://dev-gatsby-wpgraphql-starter.pantheonsite.io/graphql`,
+        url: `https://leogopal.dev/graphql`,
       },
     },
     {
